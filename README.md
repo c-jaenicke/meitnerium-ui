@@ -6,4 +6,8 @@ Meitnerium is a synthetic chemical element with the symbol Mt and atomic number 
 
 Based on my custom [Meitnerium Theme](https://gitlab.com/c-jaenicke/meitnerium-theme)
 
+[Atom Link](https://atom.io/themes/meitnerium-ui)
+
 ## Image
+
+![Editor](https://raw.githubusercontent.com/c-jaenicke/meitnerium-ui/master/.images/atom-preview.png)
